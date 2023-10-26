@@ -20,7 +20,7 @@
 ## 메인화면
 <img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/main.png">
 
-## 회원가입
+## 좌석확인
 ![Animation1](https://github.com/cysim506/CinemaProject/blob/main/Animation1.gif)
 
 ## 회원가입
@@ -33,7 +33,7 @@
 ![Animation4](https://github.com/cysim506/CinemaProject/blob/main/Animation4.gif)
 
 ## 예약확인
-<img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/ticket.png">
+<img width="400" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/ticket.png">
 
 ## 예약취소
-<img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/refund.png">
+<img width="400" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/refund.png">
