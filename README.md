@@ -18,22 +18,22 @@
 
 
 ## 메인화면
-* <img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/main.png">
+<img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/main.png">
 
 ## 회원가입
-* ![Animation1](https://github.com/cysim506/CinemaProject/Animation1.gif)
+![Animation1](https://github.com/cysim506/CinemaProject/blob/main/Animation1.gif)
 
 ## 회원가입
-* ![Animation2](https://github.com/cysim506/CinemaProject/Animation2.gif)
+![Animation2](https://github.com/cysim506/CinemaProject/blob/main/Animation2.gif)
 
 ## 로그인
-* ![Animation3](https://github.com/cysim506/CinemaProject/Animation3.gif)
+![Animation3](https://github.com/cysim506/CinemaProject/blob/main/Animation3.gif)
 
 ## 영화예매
-* ![Animation4](https://github.com/cysim506/CinemaProject/Animation4.gif)
+![Animation4](https://github.com/cysim506/CinemaProject/blob/main/Animation4.gif)
 
 ## 예약확인
-* <img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/ticket.png">
+<img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/ticket.png">
 
 ## 예약취소
-* <img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/refund.png">
+<img width="821" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/refund.png">
