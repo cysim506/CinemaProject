@@ -1,4 +1,4 @@
-# Movie Booking Program with JAVA
+# Movie Booking Program with Java
 <br>
 
 + 기능
