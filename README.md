@@ -1,5 +1,4 @@
 # Movie Booking Program with JAVA
-<br>
 + 기능
 <img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/block.png">
 <br>
