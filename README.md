@@ -2,16 +2,20 @@
 
 
 + 기능
----
-<img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/block.png">   
+<img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/block.png">  
+
+
 
 
 
  
 
 + 메인화면
----
-<img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/main.png">
+<img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/main.png">  
+
+
+
+
 
 + 좌석확인
 ---
