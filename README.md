@@ -2,7 +2,7 @@
 
 
 + 기능
-<img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/block.png">  
+<img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/block.png"><br><br><br>
 
 
 
