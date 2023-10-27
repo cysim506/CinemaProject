@@ -10,7 +10,6 @@
 <img width="600" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/main.png">  
 <br>
 <br>
-<br>
 
 + 좌석확인
 
@@ -46,7 +45,6 @@
 
 + 예약확인
 <img width="400" alt="image" src="https://github.com/cysim506/CinemaProject/blob/main/ticket.png">
-<br>
 <br>
 <br>
 
