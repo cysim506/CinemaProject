@@ -22,18 +22,24 @@
 <br>
 
 + 회원가입
+
+
 ![Animation2](https://github.com/cysim506/CinemaProject/blob/main/Animation2.gif)
 <br>
 <br>
 <br>
 
 + 로그인
+
+
 ![Animation3](https://github.com/cysim506/CinemaProject/blob/main/Animation3.gif)
 <br>
 <br>
 <br>
 
 + 영화예매
+
+
 ![Animation4](https://github.com/cysim506/CinemaProject/blob/main/Animation4.gif)
 <br>
 <br>
