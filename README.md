@@ -16,7 +16,7 @@
 
 
 + 좌석확인
-[Animation1](https://github.com/cysim506/CinemaProject/blob/main/Animation1.gif)
+![Animation1](https://github.com/cysim506/CinemaProject/blob/main/Animation1.gif)
 <br>
 <br>
 <br>
